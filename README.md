@@ -42,12 +42,27 @@ git clone https://github.com/CodeProTech/MinecraftParkourGen.git
 
 2. Navigate to the project directory:
 ```bash
-cd MinecraftParkourGen
+cd MinecraftParkourGen/BuildTools
 ```
 
-3. Install required dependencies:
+3. Build server:
 ```bash
-pip install mcpi
+build.bat
+
+```
+4. Navigate to the minecrft_server:
+```bash
+cd MinecraftParkourGen/minecraft_server
+```
+
+5. Navigate to the minecrft_server:
+```bash
+start.bat
+```
+
+6. Install required dependencies:
+```bash
+pip install mcpi random time
 ```
 
 ## 💻 Usage
