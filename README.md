@@ -80,6 +80,7 @@ python main.py
    - Level 10 is expert difficulty
 
 ## 🎮 Gameplay
+![grafik](https://github.com/user-attachments/assets/429de4ca-b4ec-487b-bdda-00573f8eb235)
 
 - **Starting Out**:
   - The game generates a spawn platform
